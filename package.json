@@ -1,0 +1,13 @@
+{
+  "name": "clawbot-userbot",
+  "version": "1.0.0",
+  "description": "ClawBot Signal Monitor — reads Telegram signal groups",
+  "main": "userbot.js",
+  "scripts": {
+    "start": "node userbot.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "telegram": "^2.19.0"
+  }
+}
